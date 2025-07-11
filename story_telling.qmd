@@ -1,10 +1,10 @@
 ---
-title: "about me"
+title: "Story time "
 subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Once apon a time
+## The end
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
