@@ -2,7 +2,7 @@
   {
     "objectID": "ml.html",
     "href": "ml.html",
-    "title": "about me",
+    "title": "machine learning",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -10,9 +10,9 @@
     ]
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
+    "objectID": "ml.html#boom",
+    "href": "ml.html#boom",
+    "title": "machine learning",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -22,7 +22,7 @@
   {
     "objectID": "exploration.html",
     "href": "exploration.html",
-    "title": "about me",
+    "title": "exploration",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -32,7 +32,7 @@
   {
     "objectID": "exploration.html#title-2-header",
     "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "title": "exploration",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -130,7 +130,7 @@
   {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
-    "title": "about me",
+    "title": "Full stack",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -140,7 +140,7 @@
   {
     "objectID": "full_stack.html#title-2-header",
     "href": "full_stack.html#title-2-header",
-    "title": "about me",
+    "title": "Full stack",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -172,19 +172,9 @@
   {
     "objectID": "competition.html",
     "href": "competition.html",
-    "title": "about me",
+    "title": "competition",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "text": "Red VS. Blue\nMarkDown Basics\n\n\n\n\n Back to top",
     "crumbs": [
       "Competition"
     ]
@@ -214,7 +204,7 @@
   {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
-    "title": "about me",
+    "title": "Story time",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -222,9 +212,9 @@
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
+    "objectID": "story_telling.html#the-end",
+    "href": "story_telling.html#the-end",
+    "title": "Story time",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
@@ -335,14 +325,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Index",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "index.html#b",
+    "href": "index.html#b",
+    "title": "Index",
     "section": "",
     "text": "MarkDown Basics"
   },
@@ -426,61 +416,30 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Resume",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Born and Raised in Virginia\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\na student at BYUI\n\n\n\n2022-now BYUI"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Resume",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "a student at BYUI"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Resume",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "2022-now BYUI"
   },
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "Cleansing",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "text": "in and out\nMarkDown Basics\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing"
     ]
